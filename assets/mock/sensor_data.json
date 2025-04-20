@@ -1,0 +1,154 @@
+{
+  "sensor_data": [
+    {
+      "id": "sensor_01",
+      "location": "Line X",
+      "time": "08:00",
+      "temperature": 16.7,
+      "humidity": 40,
+      "pressure": 1008,
+      "anomaly": 2,
+      "status": "active"
+    },
+    {
+      "id": "sensor_02",
+      "location": "Line Y",
+      "time": "09:00",
+      "temperature": 25.4,
+      "humidity": 68,
+      "pressure": 1011,
+      "anomaly": 18,
+      "status": "active"
+    },
+    {
+      "id": "sensor_03",
+      "location": "Line Z",
+      "time": "10:00",
+      "temperature": 31.8,
+      "humidity": 50,
+      "pressure": 1006,
+      "anomaly": 39,
+      "status": "active"
+    },
+    {
+      "id": "sensor_04",
+      "location": "Line W",
+      "time": "11:00",
+      "temperature": null,
+      "humidity": null,
+      "pressure": null,
+      "anomaly": -1,
+      "status": "offline"
+    },
+    {
+      "id": "sensor_05",
+      "location": "Line X",
+      "time": "12:00",
+      "temperature": 19.6,
+      "humidity": 72,
+      "pressure": 1003,
+      "anomaly": 0,
+      "status": "active"
+    },
+    {
+      "id": "sensor_06",
+      "location": "Line Y",
+      "time": "13:00",
+      "temperature": 45.1,
+      "humidity": 33,
+      "pressure": 1090,
+      "anomaly": 92,
+      "status": "active"
+    },
+    {
+      "id": "sensor_07",
+      "location": "Line Z",
+      "time": "14:00",
+      "temperature": 21.5,
+      "humidity": 54,
+      "pressure": 1014,
+      "anomaly": 1,
+      "status": "active"
+    },
+    {
+      "id": "sensor_08",
+      "location": "Line Y",
+      "time": "15:00",
+      "temperature": 29.7,
+      "humidity": 61,
+      "pressure": 1022,
+      "anomaly": 8,
+      "status": "active"
+    },
+    {
+      "id": "sensor_09",
+      "location": "Line Z",
+      "time": "16:00",
+      "temperature": 37.3,
+      "humidity": 49,
+      "pressure": 1007,
+      "anomaly": 45,
+      "status": "active"
+    },
+    {
+      "id": "sensor_10",
+      "location": "Line X",
+      "time": "17:00",
+      "temperature": 24.2,
+      "humidity": 78,
+      "pressure": 999,
+      "anomaly": 0,
+      "status": "active"
+    },
+    {
+      "id": "sensor_11",
+      "location": "Line Y",
+      "time": "18:00",
+      "temperature": 34.5,
+      "humidity": 58,
+      "pressure": 1018,
+      "anomaly": 29,
+      "status": "active"
+    },
+    {
+      "id": "sensor_12",
+      "location": "Line Z",
+      "time": "19:00",
+      "temperature": 42.0,
+      "humidity": 39,
+      "pressure": 1001,
+      "anomaly": 71,
+      "status": "active"
+    },
+    {
+      "id": "sensor_13",
+      "location": "Line X",
+      "time": "20:00",
+      "temperature": 26.3,
+      "humidity": 82,
+      "pressure": 995,
+      "anomaly": 6,
+      "status": "active"
+    },
+    {
+      "id": "sensor_15",
+      "location": "Line Z",
+      "time": "22:00",
+      "temperature": null,
+      "humidity": null,
+      "pressure": null,
+      "anomaly": -1,
+      "status": "offline"
+    },
+    {
+      "id": "sensor_16",
+      "location": "Line X",
+      "time": "23:00",
+      "temperature": 17.4,
+      "humidity": 88,
+      "pressure": 985,
+      "anomaly": 15,
+      "status": "active"
+    }
+  ]
+}
